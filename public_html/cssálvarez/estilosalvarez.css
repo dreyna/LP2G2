@@ -1,0 +1,60 @@
+#texto{
+    color: #ff3333;
+    font-family: arial;
+    
+}
+.texto2{
+    color: #0000ff;
+    font-family: cursive;
+}
+.cajita{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+}
+.boton{
+    width: 150px;
+    height: 30px;
+}
+html,body {
+    height:100%;
+}
+ 
+header {
+        
+    display:block;
+    background:#286af0;
+    padding:10px 0px;
+    text-align: center;
+}
+section {
+    width: 79%;
+    background: #ccc;
+    float: left;
+    overflow: auto;
+    padding-bottom: 60px;
+    padding-top:30px;
+}
+ 
+aside {
+    float: right;
+    border: 1px solid red;
+    width: 19%;
+    border: 1px solid red;
+    text-align: center;
+    /*Si quisieramos ocultar el contenido relacionado pondriamos visibility a hidden*/
+    /*visibility: hidden;*/
+}
+footer {
+    position: relative;
+    margin-top: -50px;
+    height: 40px; 
+    padding:5px 0px;
+    clear: both;
+    background: #ffcc33;
+    text-align: center;
+    color: #ff0033;
+}
+figure {
+    display: table; margin: 0 auto;
+}
