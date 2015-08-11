@@ -1,0 +1,18 @@
+#texto{
+    color: #ff3333;
+    font-family: arial;
+    
+}
+.texto2{
+    color: #0000ff;
+    font-family: cursive;
+}
+.cajita{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+}
+.boton{
+    width: 150px;
+    height: 30px;
+}
