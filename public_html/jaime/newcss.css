@@ -2,22 +2,22 @@
     margin: 0 auto;
 }
 body{
-    font-family: arial;
+    font-family: cursive;
     font-size: 14px;
 }
-#caja{
-    width: 1400px;
+#{
+    width: 100px;
     height: 205px;
-    border: 1px solid green;
+    border: 1px solid paleturquoise;
     border-radius: 10px;   
     margin-top: 10px;
     margin-bottom:10px;
     
  
 }
-.caja1{
+.margen1{
     width: 100px;
-    height: 300px;
+    height: 200px;
     
     float: left;
     border-radius: 10px;
@@ -26,32 +26,32 @@ body{
 }    
 
 
-#caja2{
-    width: 1400px;
+#margen2{
+    width: 100px;
     height: 350px;
     border-radius: 10px;
-    border:1px solid blue;
+    border:15px solid orange;
      margin-top: 10px;
     margin-bottom:10px;
 }
-#caja3{
-   width: 1400px;
+#margen3{
+   width: 100px;
     height: 100px;
-    border: 1px solid black;
+    border: 15px solid blueviolet;
     margin-top: 10px;
     margin-bottom:10px;
     border-radius: 10px;
    
 }
-#caja4{
-    width:90%;
+#margen4{
+    width:100%;
         height: 100%;
-        border: 1px solid royalblue;
+        border: 15px solid royalblue;
         border-radius: 10px;
        
 }
-#caja5{
-   width: 1250px;
+#margen5{
+   width: 150px;
     height: 300px;
     border: 1px solid black;
     margin-top: 10px;
@@ -60,50 +60,51 @@ body{
     margin-left: 130px;
    
 }
-.fila1{
+.cuadro1{
     width: 100%;
     height: 50px;
-    border: 1px solid red;
+    border: 20px solid mediumaquamarine;
    
     border-radius: 10px;
   
 } 
-.fila2{
+.cuadro2{
     width: 100%;
     height: 50px;
-    border: 1px solid red;
+    border: 10px solid mediumseagreen;
     
     border-radius: 10px;
   
 } 
-.fila3{
+.cuadro3{
     width: 100%;
     height: 50px;
-    border: 1px solid red;
+    border: 15px solid mediumslateblue;
    
     border-radius: 10px;
   
 } 
-.fila4{
+.cuadro4{
     width: 100%;
     height: 50px;
-    border: 1px solid red;
+    border: 15px solid papayawhip;
    
     border-radius: 10px;
   
 } 
-.fila5{
+.cuadro5{
     width: 100%;
     height: 50px;
-    border: 1px solid red;
+    border: 15px solid yellow;
     
     border-radius: 10px;
   
 } 
-.fila6{
+.cuadro6{
     width: 100%;
-    height: 50px;
-    border: 1px solid red;   
+    height: 70px;
+    border: 15px solid teal;   
     border-radius: 10px;
   
-} 
+}
+
